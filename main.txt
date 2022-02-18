@@ -1,2 +1,7 @@
 // este es el cuerpo principal de l app. ALGO MAS
+
 el main de mi aplicaion
+
+
+instrucciones agregadas directamente en el repositorio remoto
+
